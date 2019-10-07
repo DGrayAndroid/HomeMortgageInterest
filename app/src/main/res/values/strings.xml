@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home Mortgage Interest</string>
+    <string name="txtTitle">Home Mortgage Interest</string>
+    <string name="imageDesc">Home Loan Image</string>
+    <string name="txtMonthlyPayment">Monthly Payment</string>
+    <string name="txtNumYears">Number of Years</string>
+    <string name="txtLoanAmount">Amount of Loan</string>
+    <string name="btnCompute">Compute Interest</string>
+</resources>
